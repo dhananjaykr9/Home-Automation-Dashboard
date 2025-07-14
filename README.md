@@ -175,7 +175,7 @@ python mqtt_simulator.py
 <img src="screenshots/influxdb_dash.png" width="600"/>
 
 <h3>🧾 Node-Red Dasboard</h3>
-<img src="screenshots/node_red_dash.png" width="600"/>
+<img src="screenshots/node_red_dashboard.png" width="600"/>
 
 <h3>🧩 Node-RED Flow</h3>
 <img src="screenshots/node_red_flow.png" width="600"/>
