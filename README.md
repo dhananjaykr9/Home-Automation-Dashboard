@@ -169,13 +169,16 @@ python mqtt_simulator.py
 ## 🧩 Visuals
 
 <h3>📉 Grafana Dashboard</h3>
-<img src="screenshots/grafana_charts.png" width="700"/>
+<img src="screenshots/grafana_dash.png" width="600"/>
+
+<h3>🧾 InfluxDB Dasboard</h3>
+<img src="screenshots/influxdb_dash.png" width="600"/>
+
+<h3>🧾 Node-Red Dasboard</h3>
+<img src="screenshots/node_red_dash.png" width="600"/>
 
 <h3>🧩 Node-RED Flow</h3>
-<img src="screenshots/node_red_flow.png" width="700"/>
-
-<h3>🧾 InfluxDB Bucket</h3>
-<img src="screenshots/influxdb_bucket.png" width="700"/>
+<img src="screenshots/node_red_flow.png" width="600"/>
 
 ---
 
@@ -205,7 +208,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/dhananjaykharkar/)
 
 ---
 
-⭐ **If this helped you, please consider giving a star!**
-📄 Licensed under [MIT License](LICENSE)
+⭐ **If you like this project, please give it a star!**
+📄 Licensed under the [MIT License](LICENSE)
 
 ---
